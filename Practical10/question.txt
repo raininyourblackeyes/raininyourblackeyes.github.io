@@ -1,0 +1,8 @@
+Question:
+What was the distribution of DALYs across all countries in 2019?
+
+Line number:
+The code answering this question starts at line ... in dalys.py.
+
+Result:
+The histogram shows that most countries had DALYs values below about 40,000 in 2019, but a small number of countries had much higher values. The mean DALYs was 33,645.16, while the median was 29,562.60. Because the mean is higher than the median, the distribution is right-skewed. This suggests that a few countries with very high DALYs values pulled the average upward. The minimum value was Singapore, with 15,045.11, and the maximum value was Lesotho, with 90,771.64.
