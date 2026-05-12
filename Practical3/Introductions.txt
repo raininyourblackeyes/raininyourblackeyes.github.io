@@ -1,4 +1,4 @@
-Hello, my name is Rob.
-I like drinking tea and eating chocolate biscuits.
-I am enjoying teaching IBI1 in person again 
-I am happy that I can push my repo from Visual Studio Code to GitHub
+Hello, my name is Fu Ziyang. I am a student from ZJE. 
+I like reading, watching movies and TV shows/
+I also like studying and making achievements.
+I hope I can have a good college life.
