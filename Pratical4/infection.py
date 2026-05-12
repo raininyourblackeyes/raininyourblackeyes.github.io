@@ -13,14 +13,14 @@
     #   If current infected > total:
     #       Set current infected to total
 
-    #   Print "infected students in [day] day: [current]"
+    #   Print "infected students on [day] day: [current]"
 
 # Print total days needed
 
 
-total_number = int(input("What's the total number of students?"))
-starting_number = int(input("What's the number of infected students from the start?"))
-growth_rate = float(input("What's the growth rate?"))
+total_number = 91
+starting_number = 5
+growth_rate = 0.4
 days = 0
 current_number = starting_number
 while current_number < total_number:
@@ -31,5 +31,5 @@ while current_number < total_number:
     if current_number>total_number:
         current_number = total_number
     
-    print("infected students in", days, "day:", current_number)
-print("it uses", days, "day to infect all the students.")
+    print("infected students on day", days, ":", current_number)
+print("it takes", days, "days to infect all the students.")
